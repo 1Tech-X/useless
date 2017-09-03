@@ -9,10 +9,11 @@ figlet -f mini    .....Tech-X.....
 echo
 echo " ------------Architecture-----------"
 echo
-echo
 echo "SEARCH Your Phone Architecture"
 echo "----------------------------------------------------"
-echo "find your architecture"
+echo " Tab Enter key find your architecture"
 read aarch
 case $aarch in
 1)
+echo
+echo "prerequisites are installing.........."
