@@ -15,5 +15,8 @@ echo " Tab Enter key find your architecture"
 read aarch
 case $aarch in
 1)
-echo
-echo "prerequisites are installing.........."
+echo $aarch
+echo 
+fi
+;;
+esac
